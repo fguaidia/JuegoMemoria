@@ -19,17 +19,17 @@ import UIKit
 
 var numeros = 0...100
 
-for numero in numeros {
+for number in numeros {
     
     
-    if numero%5 == 0{
-        print("\(numero) Bingo!!!")
-    }else if numero%2 == 0{
-        print("\(numero) par!!!")
-    }else if numero%2 != 0{
-        print("\(numero) impar!!!")
-    }; if numero >= 30 && numero <= 40 {
-         print("\(numero) Viva Swift!!!")
+    if number%5 == 0{
+        print("\(number) Bingo!!!")
+    }else if number%2 == 0{
+        print("\(number) par!!!")
+    }else if number%2 != 0{
+        print("\(number) impar!!!")
+    }; if number >= 30 && number <= 40 {
+         print("\(number) Viva Swift!!!")
     }
     
     
