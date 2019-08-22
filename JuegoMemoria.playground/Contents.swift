@@ -29,7 +29,7 @@ for number in numeros {
     }else if number%2 != 0{
         print("\(number) impar!!!")
     }; if number >= 30 && number <= 40 {
-         print("\(number) Viva Swift!!!")
+         print("\(number) Viva Swift!!!!!")
     }
     
     
